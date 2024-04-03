@@ -1,0 +1,16 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "NoamBechhofer",
+  "license": "UNLICENSED",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@inquirer/prompts": "^4.3.0",
+    "qr-image": "^3.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
